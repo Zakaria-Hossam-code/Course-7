@@ -52,7 +52,7 @@ int main()
 	{
 		for (int j = 0; j < 3;j++)
 		{
-			cout << setw(3) << arr[i][j] << "   ";
+			cout << setw(3) << arr2[i][j] << "   ";
 			counter2 += arr2[i][j];
 		}
 		cout << endl;
