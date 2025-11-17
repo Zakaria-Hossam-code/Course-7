@@ -39,3 +39,4 @@ int main()
 		cout << "Sum Row " << i + 1 << " : " << sum[i] << endl;
 	}
 }
+
