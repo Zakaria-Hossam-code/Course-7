@@ -39,3 +39,4 @@ int main()
 		cout << "Sum Col " << i + 1 << " : " << sum[i] << endl;
 	}
 }
+
